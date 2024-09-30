@@ -1,0 +1,46 @@
+div {
+    background-color: white;
+    margin: 50px;
+    padding: 40px 20px;
+    border-style: display
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: gray;
+    font: 30px sans-serif;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+a {
+    color: rgb(153, 7, 7);
+    pointer-events: visible;
+    font-family: Arial;
+}
+
+marquee {
+    color: rgb(233, 233, 6);
+    background-color: black;
+    font-size: 15px;
+    font-family: Arial;
+    width: 90;
+    direction: ltr;
+    scroll-behavior: auto;
+}
+
+.linnk a {
+    color: blue;
+}
+
+h {
+    background-color: rgb(117, 6, 6);
+    color: white;
+    width: 90;
+    margin: 30px;
+}
